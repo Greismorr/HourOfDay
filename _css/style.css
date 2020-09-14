@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+div#bodyText{
+    width: 500px;
+    border: 1px solid;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+img#foto{
+    margin-top: 50px;
+}
+
+footer a{
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+footer{
+    text-align: center;
+    font-size: 10pt;
+    padding-top: 20px;
+}
