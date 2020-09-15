@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-div#bodyText{
+section#bodyText{
     width: 500px;
     border: 1px solid;
     text-align: center;
